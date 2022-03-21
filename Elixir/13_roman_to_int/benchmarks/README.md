@@ -16,8 +16,7 @@ parallel: 1\
 inputs: none specified\
 Estimated total run time: 7 s\
 \
-Benchmarking roman_to_int ...\
-\
+Benchmarking roman_to_int ...
 
 | Name         | ips      | average | deviation | median | 99th % |
 | :---         |     ---: |    ---: |      ---: |   ---: |   ---: |
