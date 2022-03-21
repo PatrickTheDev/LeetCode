@@ -27,4 +27,6 @@ roman_to_int-*.tar
 
 .elixir_ls/
 
+.DS_Store
+
 *.beam
