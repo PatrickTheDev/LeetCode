@@ -1,3 +1,5 @@
+# Benchmark results
+
 Operating System: macOS
 CPU Information: Apple M1
 Number of Available Cores: 8
